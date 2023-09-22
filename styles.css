@@ -12,7 +12,7 @@ width:500px;
 	img{
 		width:150px;
 		height:250px;
-		display:flex;
+		/*display:flex;*/
         padding-left:150px
 		
 	}
@@ -25,8 +25,8 @@ width:500px;
 		color:white;
 		padding-left:10px;
 		text-align:center;
-	    display:flex;
-		justify-content:space-evenly;
+	   /* display:flex;
+		/*justify-content:space-evenly;*/
 		
 	}
 h1{
@@ -35,6 +35,6 @@ text-align:center;
 .img2{
 	margin-top:10px;
 }
-/* .book{
+ .book{
 	width:500px;
 }
